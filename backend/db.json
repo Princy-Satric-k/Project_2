@@ -1,0 +1,222 @@
+{
+    "product":[
+        {
+            "id": "1",
+            "title":"Game Headphone ",
+            "description":" Headphones let a single user listen to an audio source privately, in contrast to a loudspeaker, which emits sound into the open air for anyone nearby to hear. ",
+            "price":"239",
+            "category":"Headphone",
+            "reviews":"60",
+            "stock":"20",
+            "star":"3.2",
+            "sub":"Buy Headphones online",
+            "year":"2020",
+            "image":"https://i.ibb.co/tKqykML/images1.jpg",
+            "color":[
+                "#D42424",
+                "#e8caee",
+                "#0f0f0f"
+            ]
+        },
+        {
+            "id": "2",
+            "title":"Boat Headphone",
+            "description":" Headphones let a single user listen to an audio source privately, in contrast to a loudspeaker, which emits sound into the open air for anyone nearby to hear. ",
+            "price":"569",
+            "category":"Headphone",
+            "reviews":"50",
+            "stock":"10",
+            "star":"4.5",
+            "sub":"Buy Headphones online ",
+            "year":"2021",
+            "image":"https://i.ibb.co/vsbwbZP/images2.jpg",
+            "color":[
+                "#D42424",
+                "#e8caee",
+                "#0f0f0f"
+            ]
+        },
+        {
+            "id": "3",
+            "title":"Dolby Headphone",
+            "description":" Headphones let a single user listen to an audio source privately, in contrast to a loudspeaker, which emits sound into the open air for anyone nearby to hear. ",
+            "price":"609",
+            "category":"Headphone",
+            "reviews":"25",
+            "stock":"15",
+            "star":"4.0",
+            "sub":"Buy Headphones online ",
+            "year":"2022",
+            "image":"https://i.ibb.co/WHf5CW2/images3.jpg",
+            "color":[
+                "#D42424",
+                "#e8caee",
+                "#0f0f0f"
+            ]
+        },
+        {
+            "id": "4",
+            "title":"HP Laptop",
+            "description":" Laptop is short for laptop computer. The big computer on your desk is a desktop, and the small one on your lap is a laptop.",
+            "price":"48000",
+            "category":"Laptop",
+            "reviews":"65",
+            "stock":"12",
+            "star":"4.3",
+            "sub":"Buy Laptop online",
+            "year":"2021",
+            "image":"https://i.ibb.co/WpmnS6p/images4.jpg",
+            "color":[
+                "#D42424",
+                "#e8caee",
+                "#0f0f0f"
+            ]
+        },
+        {
+            "id": "5",
+            "title":"Dell Laptop",
+            "description":" Laptop is short for laptop computer. The big computer on your desk is a desktop, and the small one on your lap is a laptop.",
+            "price":"52000",
+            "category":"Laptop",
+            "reviews":"45",
+            "stock":"18",
+            "star":"4.8",
+            "sub":"Buy Laptop online",
+            "year":"2022",
+            "image":"https://i.ibb.co/2W9Fy6q/images5.jpg",
+            "color":[
+                "#D42424",
+                "#e8caee",
+                "#0f0f0f"
+            ]
+        },
+        {
+            "id": "6",
+            "title":"Macbook Laptop",
+            "description":" Laptop is short for laptop computer. The big computer on your desk is a desktop, and the small one on your lap is a laptop.",
+            "price":"98000",
+            "category":"Laptop",
+            "reviews":"65",
+            "stock":"8",
+            "star":"5.0",
+            "sub":"Buy Laptop online ",
+            "year":"2023",
+            "image":"https://i.ibb.co/PcxX5qT/image6.jpg",
+            "color":[
+                "#D42424",
+                "#e8caee",
+                "#0f0f0f"
+            ]
+        },
+        {
+            "id": "7",
+            "title":"Vivo mobile",
+            "description":"Mobile made communication easier as just by pressing some keys on mobile, we can contact our friends, family members or colleagues, and others at any time. ",
+            "price":"30000",
+            "category":"Mobile",
+            "reviews":"35",
+            "stock":"28",
+            "star":"4.1",
+            "sub":"Buy Mobile online",
+            "year":"2023",
+            "image":"https://i.ibb.co/bJSTsqS/images7.jpg",
+            "color":[
+                "#D42424",
+                "#e8caee",
+                "#0f0f0f"
+            ]
+        },
+        {
+            "id": "8",
+            "title":"Oppo mobile",
+            "description":"Mobile made communication easier as just by pressing some keys on mobile, we can contact our friends, family members or colleagues, and others at any time. ",
+            "price":"32000",
+            "category":"Mobile",
+            "reviews":"25",
+            "stock":"18",
+            "star":"3.8",
+            "sub":"Buy Mobile online",
+            "year":"2022",
+            "image":"https://i.ibb.co/D7Z03s2/images8.jpg",
+            "color":[
+                "#D42424",
+                "#e8caee",
+                "#0f0f0f"
+            ]
+        },
+        {
+            "id": "9",
+            "title":" Apple iphone",
+            "description":"Mobile made communication easier as just by pressing some keys on mobile, we can contact our friends, family members or colleagues, and others at any time. ",
+            "price":"70000",
+            "category":"Mobile",
+            "reviews":"56",
+            "stock":"8",
+            "star":"4.8",
+            "sub":"Buy Mobile online ",
+            "year":"2023",
+            "image":"https://i.ibb.co/0DL9zsQ/images9.jpg",
+            "color":[
+                "#D42424",
+                "#e8caee",
+                "#0f0f0f"
+            ]
+        },
+        {
+            "id": "10",
+            "title":"Apple Smartwatch",
+            "description":"A smartwatch is a wearable computer in the form of a watch; modern smartwatches provide a local touchscreen interface for daily use",
+            "price":"20000",
+            "category":"Smartwatch",
+            "reviews":"46",
+            "stock":"2",
+            "star":"4.8",
+            "sub":"Buy Smartwatch online",
+            "year":"2023",
+            "image":"https://i.ibb.co/G24VCf7/images11.jpg",
+            "color":[
+                "#D42424",
+                "#e8caee",
+                "#0f0f0f"
+            ]
+        },
+        {
+            "id": "11",
+            "title":"Samsung Smartwatch",
+            "description":"A smartwatch is a wearable computer in the form of a watch; modern smartwatches provide a local touchscreen interface for daily use",
+            "price":"10000",
+            "category":"Smartwatch",
+            "reviews":"36",
+            "stock":"12",
+            "star":"4.0",
+            "sub":"Buy Smartwatch online",
+            "year":"2022",
+            "image":"https://i.ibb.co/sjbcvQB/images12.jpg",
+            "color":[
+                "#D42424",
+                "#e8caee",
+                "#0f0f0f"
+            ]
+        },
+        {
+            "id": "12",
+            "title":"Vivo Smartwatch",
+            "description":"A smartwatch is a wearable computer in the form of a watch; modern smartwatches provide a local touchscreen interface for daily use",
+            "price":"12000",
+            "category":"Smartwatch",
+            "reviews":"26",
+            "stock":"8",
+            "star":"3.8",
+            "sub":"Buy Smartwatch online ",
+            "year":"2021",
+            "image":"https://i.ibb.co/bvXBmjp/images10.jpg" ,
+            "color":[
+                "#D42424",
+                "#e8caee",
+                "#0f0f0f"
+            ]
+        }
+
+
+    ]
+}
